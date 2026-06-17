@@ -1,4 +1,9 @@
+# Dataset
+data/candidates.jsonl
+
+# Python files
 __pycache__/
 *.pyc
+
+# VS Code
 .vscode/
-.env
